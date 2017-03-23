@@ -1,4 +1,4 @@
-# Solution for Challenge on ECG Classification
+# Solution for the Challenge on ECG Classification
 
 This is a python code to train CNN model, and run evaluation or prediction on ECG data challenge. 
 
