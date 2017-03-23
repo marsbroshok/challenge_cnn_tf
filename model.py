@@ -117,10 +117,8 @@ def input_func(data_file, labels_file, mode, generate_more=True):
         # Train and Eval needs both data and labels
         x = transform_features(read_csv(data_file))
         y = read_csv(labels_file)
-        print(x.shape, y.shape)
         if generate_more:
             x, y = enrich_data(x, y)
-        print(x.shape, y.shape)
         return x, y
 
 
