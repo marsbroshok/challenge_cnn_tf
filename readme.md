@@ -1,11 +1,12 @@
 # Solution for the Challenge on ECG Classification
 
-This is a python code to train CNN model, and run evaluation or prediction on ECG data challenge. 
+This is a python code to train CNN model, and run evaluation or prediction on ECG (Electrocardiography) data challenge. 
+Dataset is availble at git repository [Détection d'inversions ECG](https://github.com/liyongsea/challenge-data)
 
 CNN model defined with Keras framework and used Tensorflow backend.
 
 ## Model Architecture
-Model architecture motivated by the currenT state-of-the-art in image processing - Convolutional Neural Networks. 
+Model architecture motivated by the current state-of-the-art in image processing - Convolutional Neural Networks. 
 
 Contrary to images, ECG signal is 1D signal. So convolutions are applied as 1D filters.
 
