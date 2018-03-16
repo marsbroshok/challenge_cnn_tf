@@ -1,7 +1,8 @@
 # Anomaly detection and classification for ECG (Electrocardiography)
 
 This is a python code to train CNN model, and run evaluation or prediction on ECG (Electrocardiography) data challenge to detect invertions in ECG data. 
-Dataset is availble at git repository [Détection d'inversions ECG](https://github.com/liyongsea/challenge-data)
+
+**NOTE:** *Sadly, I'm not the owner of the data, try to ask if dataset is available at git repository* [Détection d'inversions ECG](https://github.com/liyongsea/challenge-data)
 
 CNN model defined with Keras framework and used Tensorflow backend.
 
