@@ -59,8 +59,6 @@ This script tested in the following environment:
 
 ## How To
 
-*Note:* Before running the `model.py`script be sure to have the challenge data from git repository [Détection d'inversions ECG](https://github.com/liyongsea/challenge-data).
-
 Install python requirements:
 
 `pip install --requirement requirements.txt`
